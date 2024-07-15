@@ -1,0 +1,1 @@
+ALTER TABLE topico ADD COLUMN date DATETIME;
